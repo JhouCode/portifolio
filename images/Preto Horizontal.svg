@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Preto_Horizontal" data-name="Preto Horizontal" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 782.19 124.72">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ef781a;
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        font-family: EpilogueRoman-Bold, Epilogue;
+        font-size: 144.68px;
+        font-variation-settings: 'wght' 700;
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <rect class="cls-1" y="6.17" width="22.43" height="114.8"/>
+  <text class="cls-2" transform="translate(32 119.24)"><tspan x="0" y="0">JhouCode</tspan></text>
+</svg>
